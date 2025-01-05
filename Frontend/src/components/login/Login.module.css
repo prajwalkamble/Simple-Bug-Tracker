@@ -1,0 +1,14 @@
+/* Login.module.css */
+
+.loginbackground {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('../../assets/img2.jpg'); /* Replace with your image path */
+  background-size: cover;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background for card */
+}
